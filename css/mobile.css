@@ -147,6 +147,8 @@
 	/* Navbar brand */
 	.navbar-brand {
 		margin-left: -40px !important;
+		margin-top: 10px;
+		width: 200px;
 	}
 
 	/* Navbar toggle button */
